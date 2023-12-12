@@ -1,5 +1,6 @@
 {
   "name": "i18n-library",
+  "author": "Francisco Harris Bianchi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

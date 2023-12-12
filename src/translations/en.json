@@ -1,0 +1,8 @@
+{
+    "hello-world": "Hello",
+    "homepage": {
+        "welcome": "Welcome to our website!",
+        "description": "Explore our services and discover amazing content.",
+        "contact": "Contact us for more information."
+      }
+}
